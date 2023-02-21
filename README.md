@@ -25,3 +25,9 @@ ng g c seller-auth
 * Make HTML Form for Seller SignUp
 * Get Values in Functions
 * Add Common Style for Forms
+
+# Setup JSON Server
+* Install JSON Server
+* ```npm install -g json-server```
+
+# Create a ```db.json``` file with some data
