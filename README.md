@@ -19,3 +19,9 @@ ng g c header
 ng g c home
 ng g c seller-auth
 ```
+
+# Seller SignUp Form
+
+* Make HTML Form for Seller SignUp
+* Get Values in Functions
+* Add Common Style for Forms
