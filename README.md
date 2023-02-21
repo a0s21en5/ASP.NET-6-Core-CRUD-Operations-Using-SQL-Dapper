@@ -11,3 +11,7 @@ ng g c header
 ```
 
 # Routing
+
+* Make Home and Seller-auth Component
+* Make Route
+* Bind Routing with Links
