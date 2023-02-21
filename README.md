@@ -5,3 +5,9 @@
 * Make Component for Navbar
 * Write HTML for Navbar
 * Write CSS for Navbar
+
+```
+ng g c header
+```
+
+# Routing
