@@ -31,3 +31,11 @@ ng g c seller-auth
 * ```npm install -g json-server```
 
 # Create a ```db.json``` file with some data
+
+# Seller SignUp API Integration
+
+* Make Service File
+* Make Function for Seller SignUp API Call
+* Write Code for Call API
+* Make Seller Home Page
+* Make Interface for API data
