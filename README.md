@@ -32,6 +32,11 @@ ng g c seller-auth
 
 # Create a ```db.json``` file with some data
 
+# Start JSON Server
+```
+json-server --watch db.json
+```
+
 # Seller SignUp API Integration
 
 * Make Service File
