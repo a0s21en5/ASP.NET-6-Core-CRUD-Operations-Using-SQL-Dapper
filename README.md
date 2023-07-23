@@ -8,5 +8,19 @@ Make sure you have RabbitMQ server installed and running. You can download it fr
 
 - Create a new ASP.NET Core project or use an existing one.
 - Install the RabbitMQ .NET client library using NuGet package manager:
+`dotnet add package RabbitMQ.Client`
 
-- `dotnet add package RabbitMQ.Client`
+3. Configuration:
+
+In your ASP.NET Core appsettings.json or appsettings.Development.json, add the RabbitMQ connection details:
+
+`
+{
+  "RabbitMQConfig": {
+    "HostName": "localhost",
+    "UserName": "guest",
+    "Password": "guest",
+    "VirtualHost": "/"
+  }
+}
+`
