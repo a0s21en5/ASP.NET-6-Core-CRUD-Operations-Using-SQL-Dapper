@@ -6,8 +6,7 @@ Make sure you have RabbitMQ server installed and running. You can download it fr
 
 2. Install Required Packages:
 
-* Create a new ASP.NET Core project or use an existing one.
-* Install the RabbitMQ .NET client library using NuGet package manager:
-`
-dotnet add package RabbitMQ.Client
-`
+- Create a new ASP.NET Core project or use an existing one.
+- Install the RabbitMQ .NET client library using NuGet package manager:
+
+- `dotnet add package RabbitMQ.Client`
