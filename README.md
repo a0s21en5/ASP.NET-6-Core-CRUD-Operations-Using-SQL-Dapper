@@ -2,7 +2,7 @@
 
 1. RabbitMQ Setup:
 
-Make sure you have RabbitMQ server installed and running. You can download it from the official website `(https://www.rabbitmq.com/download.html)` and follow the installation instructions for your operating system.
+* Make sure you have RabbitMQ server installed and running. You can download it from the official website `(https://www.rabbitmq.com/download.html)` and follow the installation instructions for your operating system.
 
 2. Install Required Packages:
 
@@ -12,7 +12,7 @@ Make sure you have RabbitMQ server installed and running. You can download it fr
 
 3. Configuration:
 
-In your ASP.NET Core appsettings.json or appsettings.Development.json, add the RabbitMQ connection details:
+* In your ASP.NET Core appsettings.json or appsettings.Development.json, add the RabbitMQ connection details:
 
 ```
 {
