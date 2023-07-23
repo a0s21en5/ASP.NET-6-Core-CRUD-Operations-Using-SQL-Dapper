@@ -14,7 +14,7 @@ Make sure you have RabbitMQ server installed and running. You can download it fr
 
 In your ASP.NET Core appsettings.json or appsettings.Development.json, add the RabbitMQ connection details:
 
-`
+```
 {
   "RabbitMQConfig": {
     "HostName": "localhost",
@@ -23,4 +23,4 @@ In your ASP.NET Core appsettings.json or appsettings.Development.json, add the R
     "VirtualHost": "/"
   }
 }
-`
+```
